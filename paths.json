@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/pbakliwal/xwlkCiti-1773893244995/:/",
+      "/content/pbakliwal/xwlkCiti-1773893244995/configuration:/.helix/config.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/metadata:/metadata.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/configs:/configs.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/redirects:/redirects.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/placeholders:/placeholders.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/xwlkCiti-1773893244995/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/pbakliwal/xwlkCiti-1773893244995",
       "/content/dam/citisignal/images/products/"
     ]
 }
